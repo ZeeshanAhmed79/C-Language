@@ -6,13 +6,14 @@ C is primarily a Procedural language
 
 MinGW GNU gcc , gcc++ compiler i have installed
 
-# include<stdio.h>  It is a preprocessor directive
+**include<stdio.h>  It is a preprocessor directive**
 
 Boilerplate code it is the bare minimum standard code that is required almost in every C program
 
 Variables is a container which stores a value
 
 Datatypes:
+
 - Integer  1,2,6,7
 - float 3.2,7.0
 - Character  'zee','$'
