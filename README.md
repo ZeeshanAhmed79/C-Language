@@ -4,7 +4,9 @@
 
 C is primarily a Procedural language
 
-MinGW GNU gcc , gcc++ compiler i have installed
+It blends the combination of low-level Language and High-Level Language. And C is called Middle level language
+
+**MinGW GNU gcc , gcc++ compiler i have installed for C**
 
 **include<stdio.h>  It is a preprocessor directive**
 
@@ -24,3 +26,28 @@ Latency is very important in Programming language.
 **Data type defines what kind of data**
 
 **Variable is where that data is stored**
+
+Basic Datatypes supported in C;
+Three types of Data-Types
+ - Primitive datatypes (int, float, char, void, double)
+ - Derived Data types (array, pointers, function)
+ - User Defined Data types (Enum, Structure, union)
+
+printf() It is used to display the inserted data on the console after running the program.
+scanf() reads input from standard input (keyboard) and stores it into variables,
+
+ - %d → format specifier for integer
+ - &age → address of variable age 
+- scanf() stores the entered value into age
+
+**Why & (ampersand) is used? (in scanf)
+scanf() needs the memory address of the variable
+& gives the address of a variable**
+
+Common Format Specifiers
+**DataType	Format**
+int	         %d
+float	     %f
+double	     %lf
+char	     %c
+string	     %s
