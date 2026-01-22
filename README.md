@@ -51,3 +51,7 @@ Common Format Specifiers
 - double	     %lf
 - char	         %c
 - string	     %s
+
+void is used when a function does not return any value; it only performs an operation.
+
+A pointer* in C is a variable that stores the memory address of another variable.
