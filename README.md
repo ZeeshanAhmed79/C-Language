@@ -18,5 +18,9 @@ Datatypes
 ⦁	float 3.2,7.0
 ⦁	Character  'zee','$'
 
-C is the fast language to adopt its culture very fast, and its a very prominent language among Python, Java. 
-  "Latency is very important in Programming language"
+C is the fast language to adopt its culture very fast, and its a very prominent language among Python, Java.
+Latency is very important in Programming language.
+
+**Data type defines what kind of data**
+
+**Variable is where that data is stored**
