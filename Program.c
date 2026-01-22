@@ -12,3 +12,5 @@ int main(){
 // Run the next statement only if the value of x is exactly 2.
 // if(x == 5)  // compares x with 5
 // if(x = 5)   // assigns 5 to x, not compares
+// Data type defines what kind of data
+// Variable is where that data is stored
