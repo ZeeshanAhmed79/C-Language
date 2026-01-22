@@ -45,9 +45,9 @@ scanf() needs the memory address of the variable
 & gives the address of a variable**
 
 Common Format Specifiers
-**DataType	Format**
-int	         %d
-float	     %f
-double	     %lf
-char	     %c
-string	     %s
+**DataType	   Format**
+- int	         %d
+- float	         %f
+- double	     %lf
+- char	         %c
+- string	     %s
